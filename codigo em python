@@ -13,3 +13,4 @@ if UPA>=3 and médico=="sim" and enfermeiro=="sim" and remedio=="nao" and tempo=
     print("o bairro tem uma saúde adequada.")
 else:
     print("o bairro não tem uma saúde adequada.")
+ 
